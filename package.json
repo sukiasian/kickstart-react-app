@@ -1,0 +1,23 @@
+{
+  "name": "kickstart-react-app",
+  "version": "1.0.0",
+  "description": "Initializes React application with out-of-box Webpack, Babel and ESLint-Typescript configurations.",
+  "main": "dist/index.js",
+  "type": "commonjs",
+  "scripts": {},
+  "bin": "dist/bin/kickstart-react-app.js", 
+  "keywords": [
+    "react",
+    "application",
+    "reactjs",
+    "reactapp",
+    "eslint",
+    "webpack",
+    "babel"
+  ],
+  "author": "Sam Sukiasian",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.15"
+  }
+}
